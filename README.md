@@ -390,14 +390,11 @@ selenium
 ## Tools
 
 - **Python / Pandas:** Data cleaning, feature engineering, and EDA
-- **Selenium / Firefox:** Data collection
+- **Selenium:** Data collection
 - **SQL:** Business analysis queries
 - **Power BI:** Interactive dashboard and recommendation workflow
 - **Git / GitHub:** Version control and portfolio presentation
 
 ---
 
-## Author
 
-**Khanh Do**  
-Data Analyst Portfolio Project
